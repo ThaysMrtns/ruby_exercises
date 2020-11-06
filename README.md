@@ -1,2 +1,2 @@
-# ruby_exercises
+# Ruby_exercises
 > Firts steps with Ruby.
